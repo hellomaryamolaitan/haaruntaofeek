@@ -99,7 +99,7 @@ main img:hover {
     transform: scale(1.01);
 }
 
-.first {
+.tile-container {
     width: 96%;
     height: max-content;
     margin: 40px auto;
@@ -121,7 +121,7 @@ main img:hover {
 .tile img {
     width: 32%;
     height: 100%;
-    margin: 0 auto;
+    margin: 8px auto;
 }
 
 footer {
@@ -263,11 +263,7 @@ footer .credit a {
         text-decoration: underline;
     }
 
-    main {
-        margin: 40px auto;
-    }
-
-    .first {
+    .tile-container {
         margin: 0 auto;
     }
 
@@ -282,12 +278,13 @@ footer .credit a {
 
 @media screen and (max-width: 486px) {
     header {
-        height: 56px;
+        height: 52px;
     }
 
     main {
-        margin: 20px auto;
+        margin-top: 20px;
     }
+    
     .tile, .tile img {
         width: 100%;
     }
@@ -310,5 +307,11 @@ footer .credit a {
     footer .credit {
         margin-top: 12px;
         font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 328px) {
+    header {
+        height: 48px;
     }
 }
