@@ -295,6 +295,10 @@ footer .credit a {
         width: 100%;
     }
 
+     .tile img {
+        margin-bottom: 8px;
+    }
+     
     .tile img:hover {
         transform: scale(1);
     }
@@ -321,6 +325,7 @@ footer .credit a {
         height: 48px;
     }
 }
+
 
 
 
