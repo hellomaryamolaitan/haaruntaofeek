@@ -77,6 +77,7 @@ ul li {
 
 li a {
     font-size: 16px;
+    font-family: aktiv-grotesk, sans-serif;
 }
 
 li a:hover {
@@ -295,7 +296,6 @@ footer .credit a {
         color: #000;
         text-decoration: none;
         margin-bottom: 16px;
-        font-family: aktiv-grotesk, sans-serif;
         font-style: normal;
         font-weight: 200; 
         font-size: 36px;
@@ -405,5 +405,6 @@ footer .credit a {
         height: 48px;
     }
 }
+
 
 
