@@ -77,7 +77,8 @@ ul li {
 
 li a {
     font-size: 16px;
-    font-family: aktiv-grotesk, sans-serif;
+    color: #000;
+    text-decoration: none;
 }
 
 li a:hover {
@@ -299,6 +300,7 @@ footer .credit a {
         font-style: normal;
         font-weight: 200; 
         font-size: 36px;
+        font-family: aktiv-grotesk, sans-serif;
     }
 
     nav ul li a:hover {
@@ -405,6 +407,7 @@ footer .credit a {
         height: 48px;
     }
 }
+
 
 
 
