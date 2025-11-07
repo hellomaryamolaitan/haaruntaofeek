@@ -52,7 +52,7 @@ header h1 {
     flex-flow: row;
     justify-content: left;
     align-items: center;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .menu {
@@ -315,3 +315,4 @@ footer .credit a {
         height: 48px;
     }
 }
+
