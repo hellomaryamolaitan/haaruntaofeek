@@ -28,3 +28,10 @@ Maryam created the website layout, structure, and responsive design with a focus
 - **Hosting:** Deployed on [Vercel](https://vercel.com/).
 
 ---
+
+## Disclaimer
+All icons and visual symbols used on this site were obtained from **free-to-use sources** and are credited to their respective creators when applicable.
+
+---
+
+© 2025 Haarun Taofeek Photography. All Rights Reserved.
