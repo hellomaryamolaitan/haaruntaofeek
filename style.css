@@ -378,6 +378,10 @@ footer .credit a {
     .hero, .second {
         margin-bottom: 0;
     }
+
+    hr {
+        margin-top: 80px;
+    }
 }
 
 @media screen and (max-width: 486px) {
@@ -415,6 +419,7 @@ footer .credit a {
         height: 48px;
     }
 }
+
 
 
 
