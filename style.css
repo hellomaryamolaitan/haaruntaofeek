@@ -162,13 +162,17 @@ main .hero .headline .explore img {
     align-items: center;
 }
 
+.second .tile {
+    width: 92%;
+    margin: 0  auto;
+}
+
 .hero, .second {
     margin-bottom: 80px;
 }
 
 hr {
     width: 96%;
-    margin-top: 100px;
 }
 
 footer {
@@ -411,6 +415,7 @@ footer .credit a {
         height: 48px;
     }
 }
+
 
 
 
