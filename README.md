@@ -29,7 +29,7 @@ Maryam created the website layout, structure, and responsive design with a focus
 
 ---
 
-## License
+## ⚠️ License Notice
 ### © 2025 Haarun Taofeek & Maryam Olaitan
 
 This website is protected under a **Custom Creative License** based on the *Creative Commons BY-NC-ND 4.0 International License*.
