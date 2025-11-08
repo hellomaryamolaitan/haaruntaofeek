@@ -10,7 +10,7 @@ These materials **may not be downloaded, reproduced, distributed, or used** in a
 Unauthorized use of the images or content on this website constitutes a **violation of copyright laws** and will be treated accordingly.
 
 For licensing or usage inquiries, please contact:
-📧 [haaruntaofeekstudio@gmail.com](mailto:haaruntaofeekstudio@gmail.com)
+📧 [haaruntaofeek@gmail.com](mailto:haaruntaofeek@gmail.com)
 
 ---
 
